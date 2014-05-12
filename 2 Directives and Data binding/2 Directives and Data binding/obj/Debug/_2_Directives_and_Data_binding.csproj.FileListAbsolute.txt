@@ -1,0 +1,6 @@
+E:\Cloud\Dropbox\UCSC\Angular Session\2 Directives and Data binding\2 Directives and Data binding\bin\_2_Directives_and_Data_binding.dll.config
+E:\Cloud\Dropbox\UCSC\Angular Session\2 Directives and Data binding\2 Directives and Data binding\bin\_2_Directives_and_Data_binding.dll
+E:\Cloud\Dropbox\UCSC\Angular Session\2 Directives and Data binding\2 Directives and Data binding\bin\_2_Directives_and_Data_binding.pdb
+E:\Cloud\Dropbox\UCSC\Angular Session\2 Directives and Data binding\2 Directives and Data binding\obj\Debug\_2_Directives_and_Data_binding.csprojResolveAssemblyReference.cache
+E:\Cloud\Dropbox\UCSC\Angular Session\2 Directives and Data binding\2 Directives and Data binding\obj\Debug\_2_Directives_and_Data_binding.dll
+E:\Cloud\Dropbox\UCSC\Angular Session\2 Directives and Data binding\2 Directives and Data binding\obj\Debug\_2_Directives_and_Data_binding.pdb

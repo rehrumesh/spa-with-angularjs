@@ -1,0 +1,6 @@
+E:\Cloud\Dropbox\UCSC\Angular Session\Routing\Routing\bin\Routing.dll.config
+E:\Cloud\Dropbox\UCSC\Angular Session\Routing\Routing\bin\Routing.dll
+E:\Cloud\Dropbox\UCSC\Angular Session\Routing\Routing\bin\Routing.pdb
+E:\Cloud\Dropbox\UCSC\Angular Session\Routing\Routing\obj\Debug\Routing.csprojResolveAssemblyReference.cache
+E:\Cloud\Dropbox\UCSC\Angular Session\Routing\Routing\obj\Debug\Routing.dll
+E:\Cloud\Dropbox\UCSC\Angular Session\Routing\Routing\obj\Debug\Routing.pdb

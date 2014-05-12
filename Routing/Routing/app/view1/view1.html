@@ -1,0 +1,18 @@
+﻿<div>
+    <h1>
+        View 1
+    </h1>
+
+    <div data-ng-controller="SimpleController">
+        Name : <input type="text" data-ng-model="firstName" /><br />
+        <ul>
+            <li data-ng-repeat="customer in customers | filter:firstName | orderBy:'customer.name' ">{{customer.name}} - {{customer.city}}</li>
+        </ul>
+        
+        <p>
+            Name : <input type="text" data-ng-model="newName"/> <br/>
+            City : <input type="text" data-ng-model="newCity"/> <br/>
+            <button data-ng-click="addNew()">Add Customer</button>
+        </p>
+    </div>
+</div>

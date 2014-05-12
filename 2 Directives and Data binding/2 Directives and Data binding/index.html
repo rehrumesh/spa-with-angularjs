@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html data-ng-app="">
+<head>
+    <title>Anglura Directives and Data bindings</title>
+</head>
+<body>
+    Name:<br />
+    <input type="text" data-ng-model="text" /> <!--{{text}}-->
+
+    <!--<div data-ng-init="names=['Rumesh','Chamara','Isuru','Sahan']">
+            <ul>
+                <li data-ng-repeat="name in names">{{name}}</li>
+            </ul>
+        </div>-->
+    
+    <!--<div data-ng-init="customers=[{name:'Rumesh Eranga', city:'Ekala'},{name:'Nimesha Nishadi', city:'Weligampitiya'},{name:'Chamara Jayalath', city:'Seeduwa'},]">
+            Name : <input type="text" data-ng-model="firstName"/><br/>
+            <ul>
+                <li data-ng-repeat="customer in customers">{{customer.name}} - {{customer.city}}</li>
+            </ul>
+        
+        </div>-->
+
+    <!--Filter by name-->
+    <!--<div data-ng-init="customers=[{name:'Rumesh Eranga', city:'Ekala'},{name:'Nimesha Nishadi', city:'Weligampitiya'},{name:'Chamara Jayalath', city:'Seeduwa'},]">
+            Name : <input type="text" data-ng-model="firstName" /><br />
+            <ul>
+                <li data-ng-repeat="customer in customers | filter:firstName">{{customer.name}} - {{customer.city}}</li>
+            </ul>
+
+        </div>-->
+    
+    <!--Filter by name and order by city-->
+    <!--<div data-ng-init="customers=[{name:'Rumesh Eranga', city:'Ekala'},{name:'Nimesha Nishadi', city:'Weligampitiya'},{name:'Chamara Jayalath', city:'Seeduwa'},]">
+        Name : <input type="text" data-ng-model="firstName" /><br />
+        <ul>
+            <li data-ng-repeat="customer in customers | filter:firstName | orderBy:'city'">{{customer.name}} - {{customer.city}}</li>
+        </ul>
+
+    </div>-->
+    
+    <!--Filter by name and order by city and Name in UPPERCASE and city in lowercase-->
+    <div data-ng-init="customers=[{name:'Rumesh Eranga', city:'Ekala'},{name:'Nimesha Nishadi', city:'Weligampitiya'},{name:'Chamara Jayalath', city:'Seeduwa'},]">
+        Name : <input type="text" data-ng-model="firstName" /><br />
+        <ul>
+            <li data-ng-repeat="customer in customers | filter:firstName | orderBy:'city'">{{customer.name | uppercase}} - {{customer.city | lowercase}}</li>
+        </ul>
+
+    </div>
+    
+    <!--more directives at angularjs.org-->
+    
+
+    <script src="Scripts/angular.js"></script>
+</body>
+</html>
+

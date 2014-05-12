@@ -1,0 +1,12 @@
+﻿<div>
+    <h1>
+        View 2
+    </h1>
+
+    <div data-ng-controller="ComplexController">
+        Name : <input type="text" data-ng-model="firstName" /><br />
+        <ul>
+            <li data-ng-repeat="customer in customers | filter:firstName | orderBy:'city'">{{customer.name}} - {{customer.city}}</li>
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,6 @@
+E:\Cloud\Dropbox\UCSC\Angular Session\3 View Controller Scope\3 View Controller Scope\bin\_3_View_Controller_Scope.dll.config
+E:\Cloud\Dropbox\UCSC\Angular Session\3 View Controller Scope\3 View Controller Scope\bin\_3_View_Controller_Scope.dll
+E:\Cloud\Dropbox\UCSC\Angular Session\3 View Controller Scope\3 View Controller Scope\bin\_3_View_Controller_Scope.pdb
+E:\Cloud\Dropbox\UCSC\Angular Session\3 View Controller Scope\3 View Controller Scope\obj\Debug\_3_View_Controller_Scope.csprojResolveAssemblyReference.cache
+E:\Cloud\Dropbox\UCSC\Angular Session\3 View Controller Scope\3 View Controller Scope\obj\Debug\_3_View_Controller_Scope.dll
+E:\Cloud\Dropbox\UCSC\Angular Session\3 View Controller Scope\3 View Controller Scope\obj\Debug\_3_View_Controller_Scope.pdb

@@ -1,0 +1,6 @@
+E:\Cloud\Dropbox\UCSC\Angular Session\4 Modules Routes and Factories\4 Modules Routes and Factories\bin\_4_Modules_Routes_and_Factories.dll.config
+E:\Cloud\Dropbox\UCSC\Angular Session\4 Modules Routes and Factories\4 Modules Routes and Factories\bin\_4_Modules_Routes_and_Factories.dll
+E:\Cloud\Dropbox\UCSC\Angular Session\4 Modules Routes and Factories\4 Modules Routes and Factories\bin\_4_Modules_Routes_and_Factories.pdb
+E:\Cloud\Dropbox\UCSC\Angular Session\4 Modules Routes and Factories\4 Modules Routes and Factories\obj\Debug\_4_Modules_Routes_and_Factories.csprojResolveAssemblyReference.cache
+E:\Cloud\Dropbox\UCSC\Angular Session\4 Modules Routes and Factories\4 Modules Routes and Factories\obj\Debug\_4_Modules_Routes_and_Factories.dll
+E:\Cloud\Dropbox\UCSC\Angular Session\4 Modules Routes and Factories\4 Modules Routes and Factories\obj\Debug\_4_Modules_Routes_and_Factories.pdb

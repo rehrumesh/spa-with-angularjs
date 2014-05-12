@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4_Modules_Routes_and_Factories", "4 Modules Routes and Factories\_4_Modules_Routes_and_Factories.csproj", "{71856F2B-267C-4101-B69C-47B93015373F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71856F2B-267C-4101-B69C-47B93015373F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71856F2B-267C-4101-B69C-47B93015373F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71856F2B-267C-4101-B69C-47B93015373F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71856F2B-267C-4101-B69C-47B93015373F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
